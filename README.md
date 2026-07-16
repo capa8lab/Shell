@@ -4,7 +4,7 @@
 
 pasos:
 
-* abre pega esto en tu terminal
+* abre y pega esto en tu terminal
 
 ````bash
 $ nano ~/.bashrc
